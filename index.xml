@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Handzik.io</title>
+    <link>http://joehandzik.github.io/</link>
+    <description>Recent content on Handzik.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jul 2016 21:36:21 -0500</lastBuildDate>
+    <atom:link href="http://joehandzik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://joehandzik.github.io/about/</link>
+      <pubDate>Tue, 26 Jul 2016 21:36:21 -0500</pubDate>
+      
+      <guid>http://joehandzik.github.io/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Joe Handzik and this is my blog! I work at Hewlett Packard Enterprise and live in the Houston, TX area with my wife and my son.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
